@@ -6,9 +6,6 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 ### Prácticas
 
 - [X] Práctica 1: Introducción a Bootstrap. Clase Container
-
-![Página principal](PAGINA_PRINCIPAL.jpg))
-
 - [X] Práctica 2: Grids
 - [ ] Práctica 3: Introducción al formateo de textos
 - [ ] Práctica 4: Listas
@@ -33,3 +30,5 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - El cuerpo, a su vez, contendrá una sección lateral y una sección principal. La sección principal contendrá varias columnas que se ajustarán en función del tamaño de la pantalla.	  
   - En el pie de página incluiremos dos columnas. En la primera, pondremos nuestros datos de contacto (nombre y correo electrónico). En la segunda, adjuntaremos una cita. La disposición de ambas se ajustará al ancho de la pantalla.
   - Fecha de entrega **19/1/2025**
+  
+  ![Página principal](PAGINA_PRINCIPAL.jpg)
