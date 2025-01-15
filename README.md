@@ -16,7 +16,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 ### Apuntes
 
 - [Márgenes](MARGENES.md)
-- [Tamaño del texto](texto.md)
+- [Tamaño del texto](TEXTO.md)
 
 ### Entregas
 
