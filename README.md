@@ -11,7 +11,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [ ] Práctica 6: Tablas
 - [ ] Práctica 7: Formularios
 
-###Entregas
+### Entregas
 
 Al final de este bloque deberemos entregar una página web personal con 4 páginas:
 
