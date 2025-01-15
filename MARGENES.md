@@ -12,6 +12,10 @@ Para dejar un margen sobre un `div` utilizando Bootstrap, puedes usar las clases
 - **`mx`**: Margen horizontal (izquierda y derecha).
 - **`my`**: Margen vertical (superior e inferior).
 
+## Relleno
+
+Sustituyendo la m por una p podemos configurar el relleno de un elemento.
+
 ## Ejemplo
 
 Si quieres agregar un margen superior de 3 unidades, puedes hacerlo así:
@@ -20,7 +24,3 @@ Si quieres agregar un margen superior de 3 unidades, puedes hacerlo así:
 <div class="mt-3">
     Este es mi div con margen superior.
 </div>
-
-## Relleno
-
-Sustituyendo la m por una p podemos configurar el relleno de un elemento.
