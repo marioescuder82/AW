@@ -7,12 +7,21 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 
 - [X] Práctica 1: Introducción a Bootstrap. Clase Container
 - [X] Práctica 2: Grids
-- [ ] Práctica 3: Introducción al formateo de textos
+- [X] Práctica 3: Introducción al formateo de textos
 - [ ] Práctica 4: Listas
 - [ ] Práctica 5: Imágenes
 - [ ] Práctica 6: Tablas
 - [ ] Práctica 7: Formularios
 - [ ] Práctica 8: Listas desplegables
+- [ ] Práctica 9: Input group
+- [ ] Práctica 10: Alertas
+- [ ] Práctica 11: Botones
+- [ ] Práctica 12: Cards
+- [ ] Práctica 13: Listado de grupos
+- [ ] Práctica 14: Carrusel
+- [ ] Práctica 15: Collapse
+- [ ] Práctica 16: Menús
+- [ ] Práctica 17: Acordeones
 
 ### Apuntes
 
@@ -33,3 +42,10 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Fecha de entrega **19/1/2025**
   
   ![Página principal](PAGINA_PRINCIPAL.jpg)
+  
+- [ ] Formulario de contacto
+  - Fecha de entrega **26/1/2025**
+- [ ] Galería de imágenes
+  - Fecha de entrega **26/1/2025**
+- [ ] Listados
+  - Fecha de entrega **26/1/2025**
