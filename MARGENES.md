@@ -20,3 +20,7 @@ Si quieres agregar un margen superior de 3 unidades, puedes hacerlo así:
 <div class="mt-3">
     Este es mi div con margen superior.
 </div>
+
+## Relleno
+
+Sustituyendo la m por una p podemos configurar el relleno de un elemento.
