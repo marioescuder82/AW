@@ -3,6 +3,8 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 
 ## Bootstrap
 
+### Prácticas
+
 - [X] Práctica 1: Introducción a Bootstrap. Clase Container
 - [X] Práctica 2: Grids
 - [ ] Práctica 3: Introducción al formateo de textos
@@ -10,6 +12,10 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [ ] Práctica 5: Imágenes
 - [ ] Práctica 6: Tablas
 - [ ] Práctica 7: Formularios
+
+### Apuntes
+
+- [Espaciado](MARGENES.md)
 
 ### Entregas
 
