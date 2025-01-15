@@ -49,3 +49,5 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Fecha de entrega **26/1/2025**
 - [ ] Listados
   - Fecha de entrega **26/1/2025**
+  
+**ENTREGA FINAL 31/1/2025**
