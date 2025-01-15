@@ -17,7 +17,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 - [ ] Página principal
   - Esta página utilizará un grid para crear su estructura básica: una cabecera, un cuerpo y un pie.
-	  - En la cabecera incluiremos el título de la página, una imagen y un menú de navegación. La imagen se debe adaptar al ancho de nuestra pantalla.
-	  - El cuerpo, a su vez, contendrá una sección lateral y una sección principal. La sección principal contendrá varias columnas que se ajustarán en función del tamaño de la pantalla.	  
-	  - En el pie de página incluiremos dos columnas. En la primera, pondremos nuestros datos de contacto (nombre y correo electrónico). En la segunda, adjuntaremos una cita. La disposición de ambas se ajustará al ancho de la pantalla.
-	  - Fecha de entrega **19/1/2025**
+  - En la cabecera incluiremos el título de la página, una imagen y un menú de navegación. La imagen se debe adaptar al ancho de nuestra pantalla.
+  - El cuerpo, a su vez, contendrá una sección lateral y una sección principal. La sección principal contendrá varias columnas que se ajustarán en función del tamaño de la pantalla.	  
+  - En el pie de página incluiremos dos columnas. En la primera, pondremos nuestros datos de contacto (nombre y correo electrónico). En la segunda, adjuntaremos una cita. La disposición de ambas se ajustará al ancho de la pantalla.
+  - Fecha de entrega **19/1/2025**
