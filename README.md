@@ -30,6 +30,10 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [Color del texto](TEXTO2.md)
 - [Color del fondo](COLOR_DE_FONDO.md)
 
+### Enlaces
+
+- https://picsum.photos/
+
 ### Entregas
 
 Al final de este bloque deberemos entregar una página web personal con 4 páginas:
