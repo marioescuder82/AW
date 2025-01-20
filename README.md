@@ -60,7 +60,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Esta página mostrará una serie de imágenes (al menos 6) mediante un Carousel.
   - El Carousel incluirá botones para navegar por las imágenes y un texto descriptivo de cada una que aparecera encima.
   - Arriba del Carousel aparecerá una vista en miniatura de todas las imágenes, en columnas de 3 para pantallas grandes y en columnas de 1 para dispositivos pequeños.
-  - Fecha de entrega **26/1/2025**
+  - Fecha de entrega **29/1/2025**
   
    ![Página principal](PAGINA_GALERIA.jpg)
    
