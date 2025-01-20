@@ -48,6 +48,13 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   ![Página principal](PAGINA_PRINCIPAL.jpg)
   
 - [ ] Formulario de contacto
+  - Esta página mostrará un formulario que nos permitirá enviar un correo electrónico. Este formlularo tendrá campos para el nombre, el correo electrónico, el asunto y el cuerpo del mensaje.
+  - Este formulario se mostrará en dos columnas para un tamaño de pantalla grande y en una para un tamaño de pantalla pequeña.
+  - Este formulario incluirá un botón. Al clicar sobre él, se mostrará una alerta indicando que el mensaje no se ha podido enviar.
+  - Esta alerta contendrá un botón que nos permitirá cerrarla.
+  
+  ![Página principal](PAGINA_CONTACTO.jpg)
+  
   - Fecha de entrega **26/1/2025**
 - [ ] Galería de imágenes
   - Fecha de entrega **26/1/2025**
