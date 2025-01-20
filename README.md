@@ -68,3 +68,8 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Fecha de entrega **26/1/2025**
   
 **ENTREGA FINAL 31/1/2025**
+
+## Backend
+
+- [ ] Práctica 1: Envío de los datos de un formulario al servidor y ejecución de un programa php
+- [ ] Práctica 2: Gestión de la respuesta del servidor en JS
