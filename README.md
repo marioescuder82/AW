@@ -9,13 +9,13 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [X] Práctica 2: Grids
 - [X] Práctica 3: Introducción al formateo de textos
 - [X] Práctica 4: Listas
-- [ ] Práctica 5: Imágenes
+- [X] Práctica 5: Imágenes
 - [ ] Práctica 6: Tablas
 - [X] Práctica 7: Formularios
 - [ ] Práctica 8: Listas desplegables
 - [ ] Práctica 9: Input group
 - [X] Práctica 10: Alertas
-- [ ] Práctica 11: Botones
+- [X] Práctica 11: Botones
 - [ ] Práctica 12: Cards
 - [ ] Práctica 13: Listado de grupos
 - [ ] Práctica 14: Carrusel
