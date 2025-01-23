@@ -33,6 +33,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 ### Enlaces
 
 - https://picsum.photos/
+- [Tips de diseño](https://www.youtube.com/watch?v=n189TdfbQIA)
 
 ### Entregas
 
