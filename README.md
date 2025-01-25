@@ -18,7 +18,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [X] Práctica 11: Botones
 - [ ] Práctica 12: Cards
 - [ ] Práctica 13: Listado de grupos
-- [ ] Práctica 14: Carrusel
+- [X] Práctica 14: Carrusel
 - [ ] Práctica 15: Collapse
 - [ ] Práctica 16: Menús
 - [ ] Práctica 17: Acordeones
@@ -66,7 +66,11 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
    ![Página principal](PAGINA_GALERIA.jpg)
    
 - [ ] Página de listados
-  - Fecha de entrega **26/1/2025**
+  - Está página mostrará un acordeón con 3 elementos.
+  - Dentro de cada elemento del acordeón habrá una tabla.
+  - Fecha de entrega **31/2/2025**
+  
+  ![Página principal](PAGINA_LISTADOS.jpg)
   
 **ENTREGA FINAL 31/1/2025**
 
