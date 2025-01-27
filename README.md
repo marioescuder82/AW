@@ -10,7 +10,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [X] Práctica 3: Introducción al formateo de textos
 - [X] Práctica 4: Listas
 - [X] Práctica 5: Imágenes
-- [ ] Práctica 6: Tablas
+- [X] Práctica 6: Tablas
 - [X] Práctica 7: Formularios
 - [ ] Práctica 8: Listas desplegables
 - [ ] Práctica 9: Input group
@@ -21,7 +21,7 @@ Asignatura Aplicaciones Web de 2º curso del ciclo de grado medio Sistemas Micro
 - [X] Práctica 14: Carrusel
 - [ ] Práctica 15: Collapse
 - [ ] Práctica 16: Menús
-- [ ] Práctica 17: Acordeones
+- [X] Práctica 17: Acordeones
 
 ### Apuntes
 
@@ -48,7 +48,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   
   ![Página principal](PAGINA_PRINCIPAL.jpg)
   
-- [ ] Formulario de contacto
+- [X] Formulario de contacto
   - Esta página mostrará un formulario que nos permitirá enviar un correo electrónico. Este formlularo tendrá campos para el nombre, el correo electrónico, el asunto y el cuerpo del mensaje.
   - Este formulario se mostrará en dos columnas para un tamaño de pantalla grande y en una para un tamaño de pantalla pequeño.
   - Este formulario incluirá un botón. Al clicar sobre él, se mostrará una alerta indicando que el mensaje no se ha podido enviar.
@@ -57,7 +57,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 	
   ![Página principal](PAGINA_CONTACTO.jpg)
   
-- [ ] Galería de imágenes
+- [X] Galería de imágenes
   - Esta página mostrará una serie de imágenes (al menos 6) mediante un Carousel.
   - El Carousel incluirá botones para navegar por las imágenes y un texto descriptivo de cada una que aparecera encima.
   - Arriba del Carousel aparecerá una vista en miniatura de todas las imágenes, en columnas de 3 para pantallas grandes y en columnas de 1 para dispositivos pequeños.
