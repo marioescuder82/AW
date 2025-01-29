@@ -81,7 +81,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - [Introducción a PHP](PHP.md)
   - Intruducción a SQL
   - Introducción a PhpMyAdmin
-- [ ] Práctica 2: Gestión de la respuesta del servidor en JS
+  - [Integración de PHP y MySql](PHP+SQL.md)
 
 ## Exámenes
 
