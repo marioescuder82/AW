@@ -79,7 +79,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 - [ ] Práctica 1: Envío de los datos de un formulario al servidor y ejecución de un programa php
   - Introducción a XAMPP
   - [Introducción a PHP](PHP.md)
-  - Intruducción a SQL
+  - [Intruducción a SQL](SQL.md)
   - Introducción a PhpMyAdmin
   - [Integración de PHP y MySql](PHP+SQL.md)
 
