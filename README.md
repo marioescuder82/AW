@@ -78,6 +78,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 - [ ] Práctica 1: Envío de los datos de un formulario al servidor y ejecución de un programa php
   - Introducción a XAMPP
+    - [Instalación de XAMPP en Linux](https://www.geeksforgeeks.org/how-to-install-xampp-in-linux/)
   - [Introducción a PHP](PHP.md)
   - [Intruducción a SQL](SQL.md)
   - Introducción a PhpMyAdmin
