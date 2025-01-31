@@ -19,3 +19,23 @@ echo "Hola, Mundo!";
 4. **Abrir en el Navegador**: Accede a `http://localhost/hola_mundo.php` en tu navegador.
 
 Este script mostrará el texto "Hola, Mundo!" en la pantalla.
+
+### Integración de HTML y PHP
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Ejemplo</title>
+</head>
+<body>
+
+	<?php
+		echo '<div class="container">Hola mundo</div>';
+	?>
+
+</body>
+</html>
+```
