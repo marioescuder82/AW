@@ -76,7 +76,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 ## Backend
 
-- [ ] Práctica 1: Envío de los datos de un formulario al servidor y ejecución de un programa php
+- [X] Práctica 1: Envío de los datos de un formulario al servidor y ejecución de un programa php
   - Introducción a XAMPP
     - [Instalación de XAMPP en Linux](https://www.geeksforgeeks.org/how-to-install-xampp-in-linux/)
   - [Introducción a PHP](PHP.md)
@@ -84,6 +84,10 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Introducción a PhpMyAdmin
   - [Integración de PHP y MySql](PHP+SQL.md)
 
+## Wordpress
+
+- [ ] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md)
+
 ## Exámenes
 
-- [ ] Examen Bootstrap + Back-end: **7/2/2025**
+- [ ] Examen Bootstrap: **7/2/2025**
