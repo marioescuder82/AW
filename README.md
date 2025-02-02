@@ -80,13 +80,15 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
   - Introducción a XAMPP
     - [Instalación de XAMPP en Linux](https://www.geeksforgeeks.org/how-to-install-xampp-in-linux/)
   - [Introducción a PHP](PHP.md)
+    - [Manual de PHP](https://www.php.net/manual/es/)
   - [Intruducción a SQL](SQL.md)
   - Introducción a PhpMyAdmin
   - [Integración de PHP y MySql](PHP+SQL.md)
 
 ## Wordpress
 
-- [ ] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md) 10/2/2025
+- [ ] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md) - 10/2/2025
+- [ ] Práctica 2: [Primeros pasos en Wordpress](WORDPRESS-PRIMEROSPASOS.md) - 12/2/2025
 
 ## Exámenes
 
