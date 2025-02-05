@@ -1,18 +1,9 @@
-# Primeros pasos en wordpress
+# Páginas
 
-## Acceso al panel de administración
+## Slugs y urls amigables
 
-localhost/wordpress/wp-admin
+## Edición rápida
 
-## Configuración del Escritorio
+## Introducción a la edición Visual (Gutemberg)
 
-## Entradas
-
-### Edición visual
-
-### Editor de código
-
-### Comentarios
-
-## Temas
-
+## Introducción a la edición con código
