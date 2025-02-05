@@ -89,6 +89,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 - [ ] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md) - 10/2/2025
 - [ ] Práctica 2: [Primeros pasos en Wordpress](WORDPRESS-PRIMEROSPASOS.md) - 12/2/2025
+- [ ] Práctica 3: [Páginas](WORDPRESS-PAGINAS.md) - 14/2/2025
 
 ## Exámenes
 
