@@ -108,7 +108,7 @@ Al final de este bloque, deberás entregar una página web hecha en Wordpress co
 - [ ] Estudios
   - Esta página contendrá la información de las asignaturas de los Ciclos Formativos de Grado Medio que ofrece el centro y que puedes encontrar en https://www.iesch.org/index.php/oferta-formativa/ciclos-formativos-de-grado-medio
 - [ ] Trámites
-  - Esta página contendrá algunos de ls trámites disponibles en https://www.iesch.org/index.php/secretaria/tramites
+  - Esta página contendrá algunos de los trámites disponibles en https://www.iesch.org/index.php/secretaria/tramites
     - Solicitud de títulos
     - Solicitud del certificado de Prevención de Riesgos Laborales
 
