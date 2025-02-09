@@ -111,6 +111,8 @@ Al final de este bloque, deberás entregar una página web hecha en Wordpress co
   - Esta página contendrá algunos de los trámites disponibles en https://www.iesch.org/index.php/secretaria/tramites
     - Solicitud de títulos
     - Solicitud del certificado de Prevención de Riesgos Laborales
+	
+Además, deberás añadir al menos 3 noticias como las que puedes encontrar en la página de inicio del instituto.
 
 ## Exámenes
 
