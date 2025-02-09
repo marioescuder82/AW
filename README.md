@@ -98,6 +98,20 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 - https://bootscore.me/#download
 
+### Entregas
+
+Al final de este bloque, deberás entregar una página web hecha en Wordpress con la información del IES Segundo de Chomón. Esta Web contendrá las siguientes páginas:
+
+- [ ] Página de inicio
+- [ ] Página con la organización del centro
+  - Esta página contendrá 4 tablas similares a las que puedes encontrar en https://www.iesch.org/index.php/instituto/organizacion
+- [ ] Estudios
+  - Esta página contendrá la información de las asignaturas de los Ciclos Formativos de Grado Medio que ofrece el centro y que puedes encontrar en https://www.iesch.org/index.php/oferta-formativa/ciclos-formativos-de-grado-medio
+- [ ] Trámites
+  - Esta página contendrá algunos de ls trámites disponibles en https://www.iesch.org/index.php/secretaria/tramites
+    - Solicitud de títulos
+    - Solicitud del certificado de Prevención de Riesgos Laborales
+
 ## Exámenes
 
-- [ ] Examen Bootstrap: **7/2/2025**
+- [X] Examen Bootstrap: **7/2/2025**
