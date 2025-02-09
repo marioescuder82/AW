@@ -16,3 +16,11 @@ localhost/wordpress/wp-admin
 
 ## Temas
 
+### Instalación
+
+### Configuración
+
+#### Página de inicio
+
+#### Menús
+

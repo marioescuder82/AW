@@ -1,0 +1,3 @@
+# Ajustes
+
+## Ajuestes generales

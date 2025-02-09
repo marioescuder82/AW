@@ -93,6 +93,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 - [ ] Práctica 2: [Primeros pasos en Wordpress](WORDPRESS-PRIMEROSPASOS.md) - 12/2/2025
 - [ ] Práctica 3: [Páginas](WORDPRESS-PAGINAS.md) - 14/2/2025
 - [ ] Práctica 4: [Editor de bloques Gutemberg](WORDPRESS-GUTEMBERG.md) - 17/2/2025
+- [ ] Práctica 5: [Ajustes](WORDPRESS-AJUSTES.md) - 19/2/2025
 
 ### Enlaces
 
