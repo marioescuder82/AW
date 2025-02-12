@@ -1,3 +1,7 @@
 # Ajustes
 
-## Ajuestes generales
+## Ajustes generales
+
+## Ajustes de escritura
+
+## Ajustes de lectura
