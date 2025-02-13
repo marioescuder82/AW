@@ -120,7 +120,7 @@ Al final de este bloque, deberás entregar una página web hecha en Wordpress co
     - Solicitud de títulos
     - Solicitud del certificado de Prevención de Riesgos Laborales
 	
-Además, deberás añadir al menos 3 noticias como las que puedes encontrar en la página de inicio del instituto.
+Además, deberás añadir al menos 3 noticias y 3 actividades como las que puedes encontrar en la página de inicio del instituto.
 
 ## Exámenes
 
