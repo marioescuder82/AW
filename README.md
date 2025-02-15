@@ -97,6 +97,7 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 - [X] Práctica 6: [Entradas](WORDPRESS-ENTRADAS.md) - 19/2/2025
 - [X] Práctica 7: [Plugins](WORDPRESS-PLUGINS.md) - 24/2/2025
 - [X] Práctica 8: [Importar y exportar](WORDPRESS-IE.md) - 24/2/2025
+- [ ] Práctica 9: [Personalizar códigos CSS](WORDPRESS-CSS.md) - 24/2/2025
 
 
 ### Enlaces
