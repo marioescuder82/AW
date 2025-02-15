@@ -89,14 +89,14 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 ### Prácticas
 
-- [ ] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md) - 10/2/2025
-- [ ] Práctica 2: [Primeros pasos en Wordpress](WORDPRESS-PRIMEROSPASOS.md) - 12/2/2025
-- [ ] Práctica 3: [Páginas](WORDPRESS-PAGINAS.md) - 14/2/2025
-- [ ] Práctica 4: [Editor de bloques Gutemberg](WORDPRESS-GUTEMBERG.md) - 17/2/2025
+- [X] Práctica 1: [Instalación de Wordpress](WORDPRESS-INSTALACION.md) - 10/2/2025
+- [X] Práctica 2: [Primeros pasos en Wordpress](WORDPRESS-PRIMEROSPASOS.md) - 12/2/2025
+- [X] Práctica 3: [Páginas](WORDPRESS-PAGINAS.md) - 14/2/2025
+- [X] Práctica 4: [Editor de bloques Gutemberg](WORDPRESS-GUTEMBERG.md) - 17/2/2025
 - [ ] Práctica 5: [Ajustes](WORDPRESS-AJUSTES.md) - 19/2/2025
-- [ ] Práctica 6: [Entradas](WORDPRESS-ENTRADAS.md) - 19/2/2025
-- [ ] Práctica 7: [Plugins](WORDPRESS-PLUGINS.md) - 24/2/2025
-- [ ] Práctica 8: [Importar y exportar](WORDPRESS-IE.md) - 24/2/2025
+- [X] Práctica 6: [Entradas](WORDPRESS-ENTRADAS.md) - 19/2/2025
+- [X] Práctica 7: [Plugins](WORDPRESS-PLUGINS.md) - 24/2/2025
+- [X] Práctica 8: [Importar y exportar](WORDPRESS-IE.md) - 24/2/2025
 
 
 ### Enlaces
