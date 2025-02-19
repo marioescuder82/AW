@@ -123,6 +123,8 @@ Al final de este bloque, deberás entregar una página web hecha en Wordpress co
 	
 Además, deberás añadir al menos 3 noticias y 3 actividades como las que puedes encontrar en la página de inicio del instituto.
 
+**ENTREGA FINAL 24/2/2025**
+
 ## Exámenes
 
 - [X] Examen Bootstrap: **7/2/2025**
