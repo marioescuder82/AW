@@ -108,15 +108,15 @@ Al final de este bloque deberemos entregar una página web personal con 4 págin
 
 Al final de este bloque, deberás entregar una página web hecha en Wordpress con la información del IES Segundo de Chomón. Esta Web contendrá las siguientes páginas:
 
-- [ ] Página de inicio
+- [X] Página de inicio
 
   ![Página de inicio](PAGINA_INICIO_WORDPRESS.jpg)
   
-- [ ] Página con la organización del centro
+- [X] Página con la organización del centro
   - Esta página contendrá 4 tablas similares a las que puedes encontrar en https://www.iesch.org/index.php/instituto/organizacion
-- [ ] Páginas de estudios
+- [X] Páginas de estudios
   - Estas páginan (5) contendrán la información de las asignaturas de los Ciclos Formativos de Grado Medio que ofrece el centro y que puedes encontrar en https://www.iesch.org/index.php/oferta-formativa/ciclos-formativos-de-grado-medio
-- [ ] Trámites
+- [X] Trámites
   - Esta página contendrá algunos de los trámites disponibles en https://www.iesch.org/index.php/secretaria/tramites
     - Solicitud de títulos
     - Solicitud del certificado de Prevención de Riesgos Laborales
@@ -128,4 +128,4 @@ Además, deberás añadir al menos 3 noticias y 3 actividades como las que puede
 ## Exámenes
 
 - [X] Examen Bootstrap: **7/2/2025**
-- [ ] Examen MySql/Php/PhpMyAdmin + Wordpress **28/2/2025**
+- [X] Examen MySql/Php/PhpMyAdmin + Wordpress **28/2/2025**
